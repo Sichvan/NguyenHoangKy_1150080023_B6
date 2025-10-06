@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NguyenHoangKy_1150080023_CNPM1_Bt5", "NguyenHoangKy_1150080023_CNPM1_Bt5\NguyenHoangKy_1150080023_CNPM1_Bt5.csproj", "{0AA626F5-DA64-4415-952B-20500D537156}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BF47A148-780E-4109-B7F0-5CE123C06576}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\Sichvan\Downloads\burger.jpg = C:\Users\Sichvan\Downloads\burger.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AA626F5-DA64-4415-952B-20500D537156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA626F5-DA64-4415-952B-20500D537156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA626F5-DA64-4415-952B-20500D537156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA626F5-DA64-4415-952B-20500D537156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC33DCA7-BDF0-4910-B61B-3132AAB129E2}
+	EndGlobalSection
+EndGlobal
